@@ -1,0 +1,17 @@
+.bg-lightgreen {
+    background-color: lightgreen;
+    color: white;
+}
+
+.rounded-crc {
+    border-radius: 50%;
+}
+
+.bg-soft-green {
+    background-color: rgba(144, 238, 144, 0.5); /* Soft green background color */
+}
+  
+.shadow-inner {
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
+}
+  
