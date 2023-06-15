@@ -30,11 +30,13 @@
                 </li>
             </ul>
         </div>
-        <div class="icon">
-            <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
-            <a href="#"><i class="fa-regular fa-envelope"></i></a>
-            <a href="#"><i class="fa-regular fa-bell"></i></a>
-            <a href="#"><i class="fa-regular fa-user"></i></a>
+        <div class="icon mx-5">
+            <a href="#"><i class="fa-solid fa-lg fa-cart-shopping mx-2"></i></a>
+            <a href="#"><i class="fa-regular fa-lg fa-envelope mx-2"></i></a>
+            <a href="#"><i class="fa-regular fa-lg fa-bell mx-2"></i></a>
+        </div>
+        <div class="profile me-5">
+            <a href="<?= BASEURL; ?>/profile/index"><i class="fa-regular fa-lg fa-user"></i></a>
         </div>
         <div class="login-btn">
             <button type="button" class="btn btn-outline-dark px-4">Masuk</button>
